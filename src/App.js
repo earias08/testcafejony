@@ -23,9 +23,11 @@ function App() {
   const getApi = async () => {
     try {
       const res = await fetch(URL);
+      console.log(res)
       const productApi = await res.json();
       setProducts(productApi);
     } catch (error) {
+      console.log('prueba de catch')
       console.log(error);
     }
   };

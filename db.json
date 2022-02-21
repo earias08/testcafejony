@@ -34,6 +34,13 @@
       "urlImg": "https://hornomx.com/wp-content/uploads/2019/04/croissants-recipe-hornomx-FG-500x500.jpg",
       "category": "dulce",
       "id": 5
+    },
+    {
+      "productName": "brownie con nueces",
+      "price": "140",
+      "urlImg": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "category": "dulce",
+      "id": 6
     }
   ]
 }
